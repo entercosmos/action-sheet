@@ -1,5 +1,7 @@
 # ActionSheet
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/entercosmos/action-sheet.svg)](https://greenkeeper.io/)
+
 [![npm package][npm-badge]][npm]
 
 Used for making a choice between a set of options on a mobile device.	
