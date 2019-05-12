@@ -2,8 +2,8 @@ import React, {Component} from 'react'
 import {render} from 'react-dom'
 import {injectGlobal} from 'emotion'
 import ActionSheet from '../../src'
-import Button from '@cmds/button'
-import {Canvas, Heading, Paragraph, Box} from '@cmds/demo-utils'
+import Button from '@pndr/button'
+import {Canvas, Heading, Paragraph, Box} from '@pndr/demo-utils'
 
 injectGlobal`
     * {
